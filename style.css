@@ -24,6 +24,7 @@ body {
 
 .btn {
   position: relative;
+  bottom: 0;
   width: 200px;
   padding: 10px;
   border-radius: 5px;

@@ -53,7 +53,6 @@ genBtn.addEventListener("click", () => {
   number = 0; // number of petals
   scale = 10; // grow the flower
   shapeNum = Math.round(Math.random() * 20) + 1;
-  console.log(shapeNum);
 
   drawLoop();
 });
